@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC_AnvizFaceDeep3", "TC_AnvizFaceDeep3\TC_AnvizFaceDeep3.csproj", "{F69D5718-1C0E-4609-AB3D-849FDA7B5855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69D5718-1C0E-4609-AB3D-849FDA7B5855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69D5718-1C0E-4609-AB3D-849FDA7B5855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69D5718-1C0E-4609-AB3D-849FDA7B5855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69D5718-1C0E-4609-AB3D-849FDA7B5855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53FC7652-22A7-4B1D-8472-1F3DD1ACCE2A}
+	EndGlobalSection
+EndGlobal

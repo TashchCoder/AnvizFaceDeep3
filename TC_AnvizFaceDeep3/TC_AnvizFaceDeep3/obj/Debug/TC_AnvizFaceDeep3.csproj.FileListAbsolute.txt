@@ -1,0 +1,6 @@
+C:\Users\Dimon\source\repos\TC_AnvizFaceDeep3\TC_AnvizFaceDeep3\bin\Debug\TC_AnvizFaceDeep3.dll
+C:\Users\Dimon\source\repos\TC_AnvizFaceDeep3\TC_AnvizFaceDeep3\bin\Debug\TC_AnvizFaceDeep3.pdb
+C:\Users\Dimon\source\repos\TC_AnvizFaceDeep3\TC_AnvizFaceDeep3\obj\Debug\TC_AnvizFaceDeep3.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\TC_AnvizFaceDeep3\TC_AnvizFaceDeep3\obj\Debug\TC_AnvizFaceDeep3.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\TC_AnvizFaceDeep3\TC_AnvizFaceDeep3\obj\Debug\TC_AnvizFaceDeep3.dll
+C:\Users\Dimon\source\repos\TC_AnvizFaceDeep3\TC_AnvizFaceDeep3\obj\Debug\TC_AnvizFaceDeep3.pdb
